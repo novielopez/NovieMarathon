@@ -190,14 +190,14 @@ h5 {
 }
 
 .favorites .card-title{
-    font-size: 25px;
+    font-size: 22px;
     font-weight: bold;
     margin-top: 2%;
     color: var(--accent);
 }
 
 .favorites .card-text{
-    font-size: 7px;
+    font-size: 7.5px;
     text-align: justify;
 }
 .carousel-inner {
@@ -337,7 +337,7 @@ h5 {
     align-items: center;
 }
 .romance .card-title {
-    font-size: 20px;
+    font-size: 18px;
     font-weight: bold;
     margin-top: 2%;
     color: var(--accent);
@@ -440,7 +440,7 @@ h5 {
 }
 
 .drama .card-text {
-    font-size: 8.8px;
+    font-size: 8.5px;
     text-align: justify;
 }
 
